@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning from the Lord God out of Sion who is mighty and terrible sounded forth unto the inhabitants of the city of Worcester and of the towns and villages round about them, and may serve to the nation in general ... / by a follower of the Lamb ... known among men by the name of Edw. Bourne.</title>
+            <author>Bourne, Edward, d. 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28896</idno>
+            <idno type="STC">Wing B3849</idno>
+            <idno type="STC">ESTC R30851</idno>
+            <idno type="EEBO-CITATION">11670494</idno>
+            <idno type="OCLC">ocm 11670494</idno>
+            <idno type="VID">48045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1479:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning from the Lord God out of Sion who is mighty and terrible sounded forth unto the inhabitants of the city of Worcester and of the towns and villages round about them, and may serve to the nation in general ... / by a follower of the Lamb ... known among men by the name of Edw. Bourne.</title>
+                  <author>Bourne, Edward, d. 1708.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48045:1" rendition="simple:additions"/>
+            <p>A WARNING FROM THE LORD GOD out of <hi>SION,</hi> who is Mighty and Terrible, Sounded forth unto the INHABITANTS Of the City of VVORCESTER, And of the TOWNS and VILLAGES round about them;</p>
+            <p>And may ſerve to the Nation in general, that they may hear and fear, and repent, and turn to the Lord with their whole hearts; Leſt the overflowing Scourge come and ſweep them into the Pit, from whence there will be no Deliverance.</p>
+            <p>By a Follower of the Lamb, who makes War with the Sword of his Mouth: known amongſt men by the Name of <hi>EDW. BOVRNE.</hi>
+            </p>
+            <q>
+               <bibl>Revel. 9.20, 21.</bibl>
+               <p>And the reſt of the men which were not killed with theſe Plagues, repented not of the works of their own hands, that they ſhould not worſhip Devils and Idols, of gold, and ſilver, and braſſe, and ſtone, and wood, which neither can ſee nor hear.</p>
+               <p>Neither repented they of their Murders, nor of their Sorceries, nor of their Fornications, nor of their Thefts.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at the ſign of the <hi>Black Spread-Eagle</hi> and <hi>Windmil,</hi> in <hi>Martins Le Grand,</hi> 1660.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:48045:2"/>
+            <pb facs="tcp:48045:2"/>
+            <head>The Preface.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>UNto whom this ſhall come; Before thou de<g ref="char:EOLhyphen"/>termineſt of any thing mentioned in this <hi>War<g ref="char:EOLhyphen"/>ning,</hi> (as to the caſting of it by, or rejecting of it) firſt of all reade, or hear it read; and then, as the <hi>Light in thy own Conſcicnce,</hi> which is Gods faithful and true VVitneſs, doth Anſwer thereunto, receive it, and own it, and ſo believe it, and no other<g ref="char:EOLhyphen"/>wiſe, that ſo thou mayeſt reap the benefit thereof: for by taking Warning before it be too late, thou wilt know thy foul delivered from the evil to come.</p>
+            <p>And you who worſhip, but not the true God, who is a Spirit, and muſt be worſhipped in Spirit and Truth; if any of the Servants of the Lord ſhould come into your Aſſemblies, to declare his Mind and Will unto you, or to ſpeak to any of you as he ſhall direct them. ſee that you intreat them well, hear them with patience, and as Gods Witneſſe in you anſwereth to what they ſay, own it, and receive it, and ſuffer none to injure or perſecute them, but let them have liberty to return from you in peace, after they have cleared their Con<g ref="char:EOLhyphen"/>ſciences unto you, leſt by doing otherwiſe, you kindle the Wrath and Indignation of the Lord God againſt your own ſouls; for what you do unto them, he takes it as done unto himſelf; and though we are poor, yet
+<pb facs="tcp:48045:3"/>we deſire not your riches: but our truſt is in the Lord, whoſe care is over us. And though the world hate us, and ſcorn, and reproach and perſecute us, yet herein can we rejoyce, knowing that it was the portion of thoſe which feared the <hi>Lord</hi> in Generations before us; And although we are accounted Fools by ſome, yet ſo long as it is for the ſake of Chriſt, we can rejoyce therein; knowing that the Apoſtles and Servants of the <hi>Lord</hi> were accounted ſo before us; So then if for the ſake of Chriſt we ſuffer as Fools, would God ye ſuffered ſo too, that you might partake of our joy and rejoycing, which we have in the <hi>Lord.</hi> But what if they who are wiſe to do evil ſhall ſpeak thus of us, what need we regard it? for this is wiſdom to us, and ſtrength to us, <hi>to fear the Lord, and to keep his Commandments;</hi> and the Day of the Lord doth and will declare, that who doth otherwiſe, are fooliſh and unwiſe: for <hi>Wiſdom is,</hi> and will be <hi>juſtified of her Children.</hi>
+            </p>
+            <closer>
+               <signed>I am a lover of your Immortal Souls, <hi>EDW. BOVRNE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:48045:3"/>
+            <head>A VVARNING To the Inhabitants of Worceſter, &amp;c.</head>
+            <p>O That you would conſider, ye Inhabitants of the City of <hi>Worceſter,</hi> and ye <hi>Towns</hi> and <hi>Villages</hi> round about you, the long-ſuffer<g ref="char:EOLhyphen"/>ing of the Lord, and his forbearance to<g ref="char:EOLhyphen"/>wards you, who hath waited long to be gracious unto you! O that you would yet repent and turn unto the Lord with your whole hearts, even while it is called to day, while the Viſitation of God is continued to you-wards, and put from you whatſoever is evil and con<g ref="char:EOLhyphen"/>trary to the Light of Jeſus, and do that which is right and wel-pleaſing unto the Lord, as the Light of Chriſt in your own Conſciences doth ſhew you, that ſo it may go well with you for ever: For know this, that God is juſt and righteous, and holy in all his wayes; and ſuch as work Iniquity ſhall not go unpuniſhed: for eve<g ref="char:EOLhyphen"/>ry ſecret thing to Judgment muſt come, and all idle words muſt be accounted for in that day.</p>
+            <p>Therefore in the fear of the Lord, and in his dread and power, I warn you as you will give Account to him, and make your Anſwer to him, when you ſhall receive a juſt Recompence according to your doings,
+<pb n="6" facs="tcp:48045:4"/>that while time is continued unto you, you prize it; and while the Light ſhines, you walk in it, that ſo we may have Fellowſhip together therein, that ſo you may know the Blood of Chriſt to cleanſe you from all ſin: for yet a little while, and time ſhall be no more, and the wicked and them which forget the Lord, ſhall be turned into Hell, from whence no redemption can be found. O that you were wiſe, that you would conſider and lay to heart the long-ſuffering of the Lord, and his good<g ref="char:EOLhyphen"/>neſs and gentleneſs towards you, who deſires not your ruine nor deſtruction, but rather your Salvation, that you may be ſaved from the wrath to come: For which of you knows not, but if the Lord had rewarded you according unto your doings, but you had been cut off from being a People at this day? but he hath ſpared you, and given you a time to repent, that you may bring forth fruits unto holineſs, the end of which will be life eternal; and if you do it not, but ſhall run on and harden your hearts againſt the Lord, and rebel againſt him, by adding ſin unto ſin, and tranſgreſſion unto tranſgreſſion; then Wo and Miſery will be your por<g ref="char:EOLhyphen"/>tion, and the Wrath and Indignation and ſore Diſplea<g ref="char:EOLhyphen"/>ſure of the Lord will you feel upon your ſouls. And to you this is the Word of the Lord, which ſhall not go unfulfilled.</p>
+            <p>When it is conſidered what wickedneſſe did lately abound amongſt you, and in all parts of the Nation, who cannot but ſay, but God hath been long-ſuffering unto this Generation? Where is the City or Town where Wickedneſs was not broken forth like a mighty Flood? What tumultuous gatherings of people were there? What Shoutings, and Bonfires, and Ringing of Bells were there? What ſetting up of May-poles
+<pb n="7" facs="tcp:48045:4"/>and Dancings, and Revellings, and Drunkenneſs did abound in the Nation? And mighty diſorderly and wickedly were they bent againſt thoſe which feared the Lord, as if they would have maſſacred in the Nati<g ref="char:EOLhyphen"/>on? Do you believe that theſe things were well-plea<g ref="char:EOLhyphen"/>ſing to the Lord? May Chriſtians do ſuch things as theſe before-mentioned? Where was the fear of the Lord when theſe things were ſo? let ſober-minded people anſwer. And do you believe that it is not juſt with the Lord to viſit for theſe things? Was there greater Wic<g ref="char:EOLhyphen"/>kedneſſe found in <hi>Sodom</hi> and <hi>Gomorrah</hi> before the Lord deſtroyed them, than the things before-mentioned? if there were, declare it. Theſe things conſidered, with much more that might be mentioned, who can but ſay but the Lord hath been long-ſuffering unto this Gene<g ref="char:EOLhyphen"/>ration?</p>
+            <p>But after all this you have a little time given you, and I dare not ſay but it is but little; yet this I ſay, and not I, but the Lord, whoſe Word it is unto you, that if you make a right uſe thereof, you will be happy for ever. O that there were yet in you a heart to do the thing that it right and well-pleaſing unto the Lord, that it might go well with you, and your poſterity after you! Well, whatever you may judge of me, yet I am your friend, and a lover of your ſouls, and my deſires are for you, that you may know in this your day the things that do belong unto your peace: Surely the Lord hath been very good unto you, and many Warnings have you had from him, <hi>Time after time, Warning after Warning,</hi> and ſtill the Lord waits to be gracious un<g ref="char:EOLhyphen"/>to you; and though he ſuffer long, and bear long, yet if you ſhall chooſe to follow your own wayes, and not the way of the Lord, it will go ill with you in the end.
+<pb n="8" facs="tcp:48045:5"/>In love <hi>I warn you of it;</hi> for the Spirit of the Lord will not alwayes ſtrive: therefore take heed that you do not rebel againſt the Lord, nor reſiſt that manifeſt of him in you, leſt you be found fighters againſt the Lord, as the <hi>Jews</hi> were, who did alwayes reſiſt the holy Ghoſt: and though he had given them his good Spirit to lead them, nevertheleſs they rebelled againſt him, and after he had been long provoked by them, he ſwore in his wrath, <hi>that they ſhould not enter into his reſt.</hi> And afterwards their poſterity went a whoring after ſtrange gods, and did after all the abominations of the Heathen, yet was not the Lords love ſtraitned towards them, but his compaſſion was great towards them, and ſent his Meſſengers amongſt them, riſing betimes and ſending them; But notwithſtanding his love and tender com<g ref="char:EOLhyphen"/>paſſion towards them, they ill requited him for his great kindneſs, they mocked his Meſſengers, and miſuſed his Prophets, and deſpiſed his Words; and after the Lords long-ſuffering to them-wards, his wrath was kindled againſt them, and his diſpleaſure waxed hot againſt them, and then he gave them over into the hands of a mercileſs and cruel-hearted enemy, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> neither old nor young, nor had regard to <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>, but all became a prey unto the devouring ſword.</p>
+            <p>And yet, notwithſtanding all this, their poſterity which ſucceeded them, <hi>took not warning by theſe things,</hi> but they ſinned againſt the Lord alſo, and provoked him by their great wickedneſs, as their fathers had done, and became very cruel, <hi>in ſlaying the Prophets, and ſtoning thoſe which the Lord ſent amongſt them,</hi> who would often have gathered them unto himſelf, but they refuſed and would not, but rebelled againſt the Lord, and ſo run on in their wickedneſs, until the things
+<pb n="9" facs="tcp:48045:5"/>which did belong unto their peace, was hid from their eyes, and after all this their Wickedneſs abounded, in putting Chriſt to death, whom God hath exalted, and given him a Name above every Name. And what followed after all this? Did not Deſtruction come up<g ref="char:EOLhyphen"/>pon the whole Nation of the Jews for the ſhedding of his Innocent Blood? O how did they rage againſt him, and cryed out <hi>to Crucifie him!</hi> When <hi>Pilate</hi> waſhed his hands, to be clear from the Blood of the Innocent, then ſaid they, <hi>His Blood be on us, and on our Children;</hi> Whoſe Blood ſtands charged upon them, and who is ignorant of the great Miſery and Deſtruction which came upon the whole Nation of the Jews afterwards? And it is to be noted, that the Chief Prieſts were the moſt forward in putting Chriſt to death.</p>
+            <p>Now to bring you to that which will profit you, and tends unto your Everlaſting Comfort and Benefit; you have read in the Scriptures of Truth what Chriſt <hi>the Light</hi> hath ſaid; that Great Prophet, whom God hath raiſed up, whom all People ought to hear, <hi>God is a Spi<g ref="char:EOLhyphen"/>rit</hi> (ſaid he) <hi>and they which worſhip Him, muſt worſhip him in Spirit and in Truth;</hi> Which who comes to learn of him, it will bring them <hi>to Truth within:</hi> who comes to learn of Chriſt the <hi>Light,</hi> by whom they be enlight<g ref="char:EOLhyphen"/>ned, are taught thereby to owe nothing to any man but Love: The Light teacheth <hi>to love Enemies;</hi> the Light teacheth <hi>to bleſſe them that curſe;</hi> the Light will teach you, <hi>to pray for them that deſpitefully uſe and intreat you.</hi> And what good is there which the Light which makes Sin manifeſt, which every man is enlight<g ref="char:EOLhyphen"/>ned withall, will not lead them unto? By the Light the Apoſtles were led <hi>to the knowledge of the glory of God in the face of Jeſus Chriſt;</hi> by the Light they were led <hi>to enjoy the heavenly Treaſure in the earthen Veſſels which
+<pb n="10" facs="tcp:48045:6"/>they had in them.</hi> And as you take heed thereunto, and obey it, it will lead you to the ſame, whereby you will know an Inheritance with the Saints in Life, which doth not paſſe away, but remains for ever: And to you this is the Word of Truth.</p>
+            <p>Therefore ye Inhabitants of the City of <hi>Worceſter,</hi> and of the <hi>Towns</hi> and <hi>Villages</hi> round about you, I have this to ſay to you in the fear of the Lord, and in his counſel, whole I am, and whom I ſerve, That you make this your choice, to fear the Lord, and to ſerve him with a perfect heart. Oh do not that thing which you know by the Light of Chriſt in your own Conſci<g ref="char:EOLhyphen"/>ences, to be contrary to the Mind and Will of the Lord; for now you cannot plead Ignorance in the Day of the Lord, and ſay, Lord, if we had known thy Mind, and if thy Will had been declared unto us, we would not have done contrary thereunto, but we would have obeyed thy Voice; but we did not know it, and there<g ref="char:EOLhyphen"/>fore ſpare us, O Lord, we pray thee. But then Gods Witneſſe will anſwer for him; My Mind you knew, and my Will you were not ignorant of: for you knew that you ought to have done juſtly, and to have loved Mer<g ref="char:EOLhyphen"/>cy, and to have walked humbly before me; which was the Sacrifice which would have pleaſed me well, and that unto which my Soul had, and hath regard unto; but ſeeing you choſe to do the thing which you knew you ought not to have done, and refuſed to do the thing which you knew you ought to have done; therefore is this Evil come juſtly upon you; and ſo hereby ſhall all mouthes be ſtopped in the Day of the Lord, and every tongue ſhall confeſs unto his righteous Judgements: And then ſhall ſuch confeſs, that die Lord was long-ſuffering towards them, and gave them time to repent, but they repented not.</p>
+            <pb n="11" facs="tcp:48045:6"/>
+            <p>And what ſhall I ſay more unto you? What would you have the Lord to do for you more than he hath done? For Life and Death hath he ſet before you, and his deſire is that you may chooſe Life, that your Souls may live; as he ſaid of <hi>Iſrael</hi> of old, <hi>Have I any plea<g ref="char:EOLhyphen"/>ſure in the death of a ſinner? Why will you die, O houſe of Iſrael?</hi> And therefore let none blame the Lord, as though he was the cauſe of their ruine: for the deſtru<g ref="char:EOLhyphen"/>ction of a People is of themſelves, but their help is in the Lord: Wherefore forſake your own waves, and every evil deſire, which proceeds from the corrupt heart; and every deceitfull imagination which from thence doth ariſe, and come to the Light of Chriſt, which ſhews you whatſoever is evil and contrary to the Mind of the Lord, that by it you may be led out of the ſame; that Salvation you may know, and Healing you may find, from him who is come to ſeek and to ſave that which is loſt, that ſo you may come to witneſs Chriſt Jeſus, the Saviour of your ſouls, made manifeſt within you, to condemn Sin there, to deſtroy the De<g ref="char:EOLhyphen"/>vils works in you, and ſo to ſave you from the wrath to come.</p>
+            <div type="part">
+               <head>Something concerning <hi>Religion.</hi>
+               </head>
+               <p>ANd further, it is in my heart, to write ſomething as concerning <hi>Religion.</hi> There is a great deal of Profeſſion in the Nation about the Worſhip of God: ſome would have it after <hi>one manner,</hi> and ſome after <hi>another,</hi> as they imagine and conceive in the dark, be<g ref="char:EOLhyphen"/>ing from that of God in them; and one cryes, <hi>Lo here,</hi> and another cryes, <hi>Lo there,</hi> as Chriſt foretold; but ſaid he, <hi>Believe them not: The Kingdom of God is within you.</hi> And ſaid <hi>John, The Anointing abideth in you.</hi> By
+<pb n="12" facs="tcp:48045:7"/>which we plainly perceive, that they which draw peo<g ref="char:EOLhyphen"/>ple from the Light which ſhines in the heart, and makes Sin manifeſt, are the Deceivers and Seducers, which are to be turned from; And now the time is come, that the true Worſhippers do worſhip the Father in Spirit and in Truth; who are come to that of God in them, whereby they retain God in their knowledge, and hold the Truth in Righteouſneſs; which thoſe that profeſs the Truth, and are from that of God in them, do hold in the Unrighteouſneſs, <hi>being Strangers from the Life of God, and Aliens to the Covenant of Promiſe;</hi> and ſo though they profeſs the Words of Truth, yet denying the <hi>Light of Chriſt</hi> who is the Truth, and not believing therein that they might be ſaved; In what do ſuch differ from the Jews, who profeſſed God <hi>in words,</hi> but in <hi>their works</hi> denyed him, <hi>becauſe their deeds were evil?</hi> And though they had the Scriptures, which teſtified of the Light, which Chriſt, <hi>the Light,</hi> bid them ſearch them; <hi>but they would not come to Him, that they might have Life,</hi> their eyes were without from that of God in them, and doubt<g ref="char:EOLhyphen"/>leſs, they expected he would come in ſome outward, Glorious Appearance; but he coming otherwiſe, after a low degree, and taking upon him the form of a Ser<g ref="char:EOLhyphen"/>vant, they deſpiſed him in their hearts, and ſaid, <hi>Is not this the Carpenters ſon? &amp;c.</hi> and ſo rejected him, and would not have him to reign, who was a man of ſorrows and acquainted with grief; and ſo they would build without the Light: therefore ſaid the Apoſtle, <hi>This is the Stone ſet at nought by you builders, &amp;c. Yet Him hath God exalted, and given him a Name above every Name;</hi> and this is Him whom all People ought to hear, the Son of God, by whom God hath ſpoken unto us in theſe laſt dayes; that great Prophet which <hi>Moſes</hi> propheſied of,
+<pb n="13" facs="tcp:48045:7"/>whom all People ought to hearken unto: Therefore turn your minds inward unto the Light which ſhewes you Sin, and hearken diligently unto the Word which is near in the Mouth and Heart, to hear and obey it; <hi>For if they who tranſgreſſed againſt the Word ſpoken by Angels, received a juſt recompence of reward, conſider-how ſhall you eſcape, and go unpuniſhed, if you neglect ſo great Salvation?</hi>
+               </p>
+               <p>And this is that which would bring all to be of one heart, and of one mind, and of a found judgment, and to dwell together in the love and fear of the Lord, as every one comes <hi>to the Light of Chriſt in them,</hi> which makes Sin manifeſt, that thereby they may be led out of the ſame unto God, and this will lead them to worſhip God in Spirit and in Truth; and it is a ſure and everlaſt<g ref="char:EOLhyphen"/>ing Rule for all People to take heed unto; for by this can none be deceived. And as every one comes here, then Love, and Peace, and good-will will abound a<g ref="char:EOLhyphen"/>mongſt them, and they will ſeek the welfare one of an<g ref="char:EOLhyphen"/>other, and watch over one another for good, and not for evil.</p>
+               <p>And ſuch as would <hi>perſecute,</hi> and <hi>deſtroy,</hi> and <hi>ſtone,</hi> and. <hi>ſtocks,</hi> and <hi>impriſon,</hi> and <hi>whip,</hi> and <hi>baniſh</hi> thoſe which cannot worſhip as themſelves, they have not yet learned of Chriſt the <hi>Light,</hi> who came <hi>not to deſtroy mens lives, but to ſave them;</hi> and ſo this is a true ſign, that thoſe which perſecute others about Religion are not led by the Spirit of Jeſus: for he did not cauſe any to be per<g ref="char:EOLhyphen"/>ſecuted, but was perſecuted himſelf, and put to death, witneſſing a good Confeſſion before <hi>Pontius Pilate,</hi> and the Chief Prieſts were the cauſe of it, who ſaid <hi>he was a blaſphemer,</hi> when he ſpoke the Truth: Therefore you Prieſts who are in the perſecuting nature, read whoſe Children you are. And his Apoſtles were perſecuted,
+<pb n="14" facs="tcp:48045:8"/>but did not perſecute, nor uſed any carnal weapons in their own defence; <hi>but the weapons of their warfare were ſpiritual and mighty through God, to the pulling down of ſtrong holds, caſting down Imaginations, and every high thing that exalted it ſelf againſt the knowledg of God; They did not wreſtle with fleſh and blood, but warred againſt the Powers of Darkneſſe,</hi> that ſo people might be brought from under the Power of Darkneſs, into the Kingdom and Dominion of the dear Son of God; and ſo they ſought the <hi>Preſervation,</hi> and not the <hi>Deſtruction</hi> of any; turning people from <hi>Darkneſs</hi> to <hi>Light,</hi> mid from <hi>Satans power</hi> unto the <hi>Power of God,</hi> that they might be ſaved by Chriſt the Light, <hi>who is given for a Covenant of Light, and for Salvation unto the Ends of the Earth:</hi> theſe fought the good fight. And it is manifeſt and clear, that they which wreſtle with fleſh and blood, perſecu<g ref="char:EOLhyphen"/>ting and deſtroying others about Religion, do fight the <hi>bad fight,</hi> and are not followers of the Lamb of God, who makes war with the Sword of his mouth.</p>
+               <p>And ſo now, as to what hath been written concern<g ref="char:EOLhyphen"/>ing <hi>Religion,</hi> this is the ſum: God is a Spirit, and they who worſhip him, muſt worſhip him in Spirit and in Truth: which none can do but who comes to that of God in them, even <hi>the meaſure of the Spirit of God, which is given them to profit withall, that thereby they may be led into all Truth.</hi>
+               </p>
+               <p>You Inhabitants of the City of <hi>Worceſter,</hi> and of the Towns and Villages round about you, God hath put it in my heart to warn you, and to ſignifie unto you that he expects fruits from you which his Soul accepts, and in which he delights and is well-pleaſed withall; which is <hi>fruits of Righteouſneſs,</hi> the end of which will be unto you Life eternal. Wherefore fear the Lord, and ſerve
+<pb n="15" facs="tcp:48045:8"/>him with a perfect heart, <hi>ſpeak every man truth unto his Neighbour,</hi> and <hi>do to others as you would be done unto,</hi> and come to Truth in the Inward parts; <hi>for, the Lord ſear<g ref="char:EOLhyphen"/>cheth the Heart, and tryes the Reins;</hi> and <hi>who worketh Iniquity, the Lord will find them out, and juſtly reward them, even according to the fruit of their doings:</hi> Where<g ref="char:EOLhyphen"/>ſore, while you have time, take warning, and bring forth fruit unto God; leſt the overflowing ſcourge come and ſweep you into the Pit, from whence no Redemption will be found.</p>
+               <p>But if after all this, you harden your hearts againſt the Lord, and remain ſtiff-necked and rebellious againſt him, by adding ſin unto ſin, and ſo grieve the Spirit of the Lord, which will not alwayes ſtrive with you, though he hath ſuffered long, and born long with you, and waited long to be gracious unto you; yet the Day of the Lord will come upon you when you are not aware of it, like a Thief in the night; and when you cry, <hi>Peace, peace,</hi> and think that you are ſafe, then will ſud<g ref="char:EOLhyphen"/>den deſtruction be at the door; therefore while you have a little time, O that you would prize it, and re<g ref="char:EOLhyphen"/>pent, and turn to the Lord, and ſeek him with your whole hearts, that mercy you may find.</p>
+               <p>So now whether you hear, or whether you forbear, if you ſhall ſtill go on to do wickedly, then let your blood remain upon your own heads; for hitherto I am clear herein, and have the Anſwer of a good Conſci<g ref="char:EOLhyphen"/>ence with the Lord, in obedience unto whom I have thus far proceeded to warn you, that you may be ſaved from the wrath to come.</p>
+               <p>And though I may meet with ſcoffs, and reproaches, and ſcornings from ſome, yet my Reward is with the Lord, and I have learned to paſſe by and forgive
+<pb n="16" facs="tcp:48045:9"/>them; the reproach of Chriſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> being greater riches than the treaſures of thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world. And thus my Light I have not hid under a Buſhel but in the fear of God have I cleared my Conſcience unto you: and whoſo takes not warning, let their blood remain, upon their own heads.</p>
+               <p>Therefore from the <hi>Higheſt</hi> to the <hi>Loweſt,</hi> without re<g ref="char:EOLhyphen"/>ſpect to the perſons of any, hear the Word of the Lord, Repent and turn unto God with your whole hearts, and let the time paſt ſuffice wherein you have lived in doing thoſe things which you ought not to have done; and for the time to come approve your hearts unto God, by doing thoſe things which are juſt and right, and well-pleaſing in his ſight) as the <hi>Light of Chriſt in your own Conſiciences</hi> doth ſhew you, that ſo your ſins may be blotted out, and times of refreſhment you may know from the preſence of the Lord; Unto whom all Praiſes, and Thankſgiving, and Dominion belongs for ever<g ref="char:EOLhyphen"/>more, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Worceſter</hi> 
+                     <date>the 20th of the 8th Month, 1660.</date>
+                  </dateline>
+                  <signed>
+                     <hi>From a lover of Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs, who waits to ſee it ſet up and exalted over all Deceit.</hi> E. B.</signed>
+               </closer>
+               <pb facs="tcp:48045:9"/>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
